@@ -1,2 +1,2 @@
-public class ListImpl {
+public class ListImpl<T>{
 }

@@ -1,2 +1,2 @@
-public interface ListADT {
+public interface ListADT<T>{
 }
