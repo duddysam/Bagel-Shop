@@ -1,2 +1,3 @@
-public class ContentNode {
+public class ContentNode<T> implements INode<T>{
+
 }

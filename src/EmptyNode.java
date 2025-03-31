@@ -1,2 +1,2 @@
-public class EmptyNode {
+public class EmptyNode <T> implements INode<T>{
 }

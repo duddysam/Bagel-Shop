@@ -1,2 +1,2 @@
-public interface INode {
+public interface INode <T>{
 }

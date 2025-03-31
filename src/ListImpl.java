@@ -1,2 +1,2 @@
-public class ListImpl<T>{
+public class ListImpl<T> implements ListADT<T>{
 }
